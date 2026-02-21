@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 80" fill="none">
+  <rect width="120" height="80" rx="8" fill="#F5F3FF"/>
+  <rect x="1" y="1" width="118" height="78" rx="7" stroke="#8B5CF6" stroke-width="2" stroke-dasharray="4 4"/>
+  <circle cx="50" cy="30" r="4" fill="#8B5CF6"/><circle cx="70" cy="30" r="4" fill="#8B5CF6"/>
+  <circle cx="45" cy="45" r="4" fill="#A78BFA"/><circle cx="60" cy="45" r="4" fill="#A78BFA"/><circle cx="75" cy="45" r="4" fill="#A78BFA"/>
+  <line x1="50" y1="33" x2="45" y2="42" stroke="#C4B5FD" stroke-width="1.5"/>
+  <line x1="50" y1="33" x2="60" y2="42" stroke="#C4B5FD" stroke-width="1.5"/>
+  <line x1="70" y1="33" x2="60" y2="42" stroke="#C4B5FD" stroke-width="1.5"/>
+  <line x1="70" y1="33" x2="75" y2="42" stroke="#C4B5FD" stroke-width="1.5"/>
+  <text x="60" y="62" text-anchor="middle" font-size="7" font-weight="bold" fill="#6D28D9">DeepLearning</text>
+</svg>

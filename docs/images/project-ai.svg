@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" fill="none">
+  <rect width="600" height="400" rx="16" fill="#F5F3FF"/>
+  <circle cx="300" cy="180" r="80" fill="#E0E7FF" stroke="#6366F1" stroke-width="3"/>
+  <circle cx="300" cy="180" r="30" fill="#6366F1"/>
+  <circle cx="300" cy="180" r="12" fill="#E0E7FF"/>
+  <!-- Neural network nodes -->
+  <circle cx="160" cy="120" r="15" fill="#A5B4FC"/>
+  <circle cx="160" cy="180" r="15" fill="#A5B4FC"/>
+  <circle cx="160" cy="240" r="15" fill="#A5B4FC"/>
+  <circle cx="440" cy="120" r="15" fill="#A5B4FC"/>
+  <circle cx="440" cy="180" r="15" fill="#A5B4FC"/>
+  <circle cx="440" cy="240" r="15" fill="#A5B4FC"/>
+  <!-- Connections -->
+  <line x1="175" y1="120" x2="270" y2="165" stroke="#C7D2FE" stroke-width="2"/>
+  <line x1="175" y1="180" x2="270" y2="180" stroke="#C7D2FE" stroke-width="2"/>
+  <line x1="175" y1="240" x2="270" y2="195" stroke="#C7D2FE" stroke-width="2"/>
+  <line x1="330" y1="165" x2="425" y2="120" stroke="#C7D2FE" stroke-width="2"/>
+  <line x1="330" y1="180" x2="425" y2="180" stroke="#C7D2FE" stroke-width="2"/>
+  <line x1="330" y1="195" x2="425" y2="240" stroke="#C7D2FE" stroke-width="2"/>
+  <rect x="180" y="310" width="240" height="40" rx="20" fill="#6366F1"/>
+  <rect x="220" y="322" width="160" height="16" rx="4" fill="#E0E7FF"/>
+</svg>
