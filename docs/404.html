@@ -7,7 +7,7 @@
     // GitHub Pages SPA redirect
     // Encodes the current path + query into a query parameter on index.html
     // so the SPA can restore the correct route on load.
-    var pathSegmentsToKeep = 0; // 0 for username.github.io, 1 for project pages (username.github.io/repo)
+    var pathSegmentsToKeep = 1; // 0 for username.github.io, 1 for project pages (username.github.io/repo)
     var l = window.location;
     l.replace(
       l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
