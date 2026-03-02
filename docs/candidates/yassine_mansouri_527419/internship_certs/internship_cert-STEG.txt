@@ -1,0 +1,89 @@
+
+
+
+
+######################### RAW VALUES
+
+Société Tunisienne de l’Electricité et du Gaz
+الشركة التونسية للكهرباء والغاز
+
+إقليم تونس المدينة
+
+شهادة تربص
+
+اليوم
+
+مرجعكم :
+مرجعنا :
+
+الموضوع : شهادة تربص / مشروع ختم الدروس
+
+يشهد رئيس إقليم تونس المدينة بالشركة التونسية للكهرباء والغاز أن:
+
+السيد
+ياسين منصوري
+
+المؤسسة التعليمية : المعهد العالي للدراسات التكنولوجية بالقيروان
+
+الاختصاص : الآلية و الإعلامية الصناعية
+
+قد قام بتربص تطبيقي بـ : إقليم تونس المدينة ابتداءً من : 2025/02/03 إلى غاية : 2025/05/10
+
+سلمت له هذه الشهادة بطلب منه للاستظهار بها عند الاقتضاء.
+
+رئيس إقليم تونس المدينة
+
+حاتم بن جبر
+
+Siège Social : 38, Rue Kamel Ataturk, BP.190-1080 Tunis CEDEX - المقر الاجتماعي : 38، نهج كمال أتاتورك ص ب 190-1080 تونس سيديكس
+Site Web : www.steg.com.tn
+ Courriel : dpsc@steg.com.tn
+
+steg.tunisie
+(216) 71 341 311
+(216) 71 341 401 / 71 349 981 / 71 330 174
+
+
+
+######################### SUGGESTED FIELD NAMES
+
+
+companyNameFr: Société Tunisienne de l’Electricité et du Gaz
+companyNameAr: الشركة التونسية للكهرباء والغاز
+
+regionalOfficeName: إقليم تونس المدينة
+
+documentType: شهادة تربص
+documentSubject: شهادة تربص / مشروع ختم الدروس
+
+issueDateLabel: اليوم
+referenceYourRef: مرجعكم
+referenceOurRef: مرجعنا
+
+internFullName: ياسين منصوري
+
+educationalInstitution: المعهد العالي للدراسات التكنولوجية بالقيروان
+specialization: الآلية و الإعلامية الصناعية
+
+internshipLocation: إقليم تونس المدينة
+internshipStartDate: 2025/02/03
+internshipEndDate: 2025/05/10
+
+issuerStatement: سلمت له هذه الشهادة بطلب منه للاستظهار بها عند الاقتضاء.
+
+signatoryTitle: رئيس إقليم تونس المدينة
+signatoryName: حاتم بن جبر
+
+headOfficeAddressFr: 38, Rue Kamel Ataturk, BP 190-1080 Tunis CEDEX
+headOfficeAddressAr: 38، نهج كمال أتاتورك ص ب 190-1080 تونس سيديكس
+
+websiteUrl: www.steg.com.tn
+
+companyEmail: dpsc@steg.com.tn
+
+companyPhone1: (216) 71 341 311
+companyPhone2: (216) 71 341 401
+companyPhone3: (216) 71 349 981
+companyPhone4: (216) 71 330 174
+
+

@@ -1,0 +1,71 @@
+
+
+
+
+######################### RAW VALUES
+
+COFICAB
+
+Tunis, le 06/03/2024
+
+ATTESTATION DE STAGE
+
+Nous soussignés « COFICAB TUNISIE », attestons par la présente que « Mr Mansouri Yassine » a effectué son Stage Pratique au sein de nos Département Maintenance, et ce du 09/01/2024 au 03/03/2024
+
+Cette attestation est délivrée à l’intéressé pour servir et valoir ce que de droit.
+
+Responsable Formation / Recrutement
+
+Imen Ouedi
+
+COFICAB TUNISIE
+Service Développement R.H.
+Tél: 71 156 000
+
+Coficab Tunisie SA - Capital social : 2 200 000 DT - RC : B133151996 Tunis - Code TVA : 296286T/A/M/000
+Siège social : 40, rue 18 janvier 1952, 1001 Tunis RP - Tunisie - Tel : +(216) 71 156 000 - Fax : +(216) 71 590 230
+E-mail : coficab@coficab.com
+
+
+
+
+
+######################### SUGGESTED FIELD NAMES
+
+companyName: COFICAB Tunisie
+companyLogo: COFICAB
+
+documentType: Attestation de Stage
+issueCity: Tunis
+issueDate: 06/03/2024
+
+internFullName: Mr Mansouri Yassine
+internshipType: Stage Pratique
+departmentName: Département Maintenance
+internshipStartDate: 09/01/2024
+internshipEndDate: 03/03/2024
+
+issuerStatement: Cette attestation est délivrée à l’intéressé pour servir et valoir ce que de droit.
+
+signatoryRole: Responsable Formation / Recrutement
+signatoryName: Imen Ouedi
+
+hrDepartment: Service Développement R.H.
+companyPhoneShort: 71 156 000
+
+companyLegalName: Coficab Tunisie SA
+capitalSocial: 2 200 000 DT
+rcNumber: B133151996 Tunis
+vatCode: 296286T/A/M/000
+
+headOfficeAddress: 40, rue 18 janvier 1952, 1001 Tunis RP - Tunisie
+companyPhone: +(216) 71 156 000
+companyFax: +(216) 71 590 230
+companyEmail: coficab@coficab.com
+
+
+
+
+
+
+

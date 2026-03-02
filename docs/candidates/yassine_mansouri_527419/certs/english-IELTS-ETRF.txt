@@ -1,0 +1,107 @@
+
+
+
+
+######################### RAW VALUES
+
+IELTS™
+Test Report Form
+
+ACADEMIC
+
+NOTE
+Admission to undergraduate and post graduate courses should be based on the ACADEMIC Reading and Writing Modules.
+GENERAL TRAINING Reading and Writing Modules are not designed to test the full range of language skills required for academic purposes.
+It is recommended that the candidate's language ability as indicated in this Test Report Form be re-assessed after two years from the date of the test.
+To find out more about IELTS, IELTS band scores and the CEFR levels, please visit ielts.org/scores
+
+Centre Number: TN001
+Date: 11/FEB/2026
+Candidate Number: 505008
+
+Candidate Details
+
+Family Name: MANSOURI
+First Name(s): YASSINE
+Candidate ID: N752921
+
+Date of Birth: 25/08/2003
+Sex (M/F): M
+Scheme Code: Private Candidate
+
+Country or Region of Origin:
+Country of Nationality: TUNISIA
+First Language: ARABIC
+
+Test Results
+
+Listening: 6.0
+Reading: 5.5
+Writing: 5.0
+Speaking: 6.0
+Overall Band Score: 5.5
+CEFR Level: B2
+
+Administrator Comments
+
+Recognising organisations must verify this score at
+ielts.org/verify
+
+Validation stamp
+VALIDATION STAMP
+IELTS
+CAMBRIDGE ENGLISH BRITISH COUNCIL
+
+Date: 12/02/2026
+Test Report Form Number: 25TN505008MANY001A
+
+BRITISH COUNCIL
+idp
+CAMBRIDGE English
+
+IELTS is jointly owned by the British Council; IDP IELTS; and Cambridge University Press & Assessment.
+
+
+
+
+######################### SUGGESTED FIELD NAMES
+
+testName: IELTS
+testType: ACADEMIC
+
+centreNumber: TN001
+testDate: 11/FEB/2026
+candidateNumber: 505008
+
+familyName: MANSOURI
+firstNames: YASSINE
+candidateId: N752921
+
+dateOfBirth: 25/08/2003
+sex: M
+schemeCode: Private Candidate
+
+countryOrRegionOfOrigin:
+countryOfNationality: TUNISIA
+firstLanguage: ARABIC
+
+listeningScore: 6.0
+readingScore: 5.5
+writingScore: 5.0
+speakingScore: 6.0
+overallBandScore: 5.5
+cefrLevel: B2
+
+administratorComments:
+verificationUrl: ielts.org/verify
+
+validationDate: 12/02/2026
+testReportFormNumber: 25TN505008MANY001A
+
+issuingOrganizations: British Council; IDP IELTS; Cambridge University Press & Assessment
+
+
+
+
+
+
